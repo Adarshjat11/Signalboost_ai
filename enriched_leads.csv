@@ -1,0 +1,11 @@
+name,title,company,industry,location,employees,revenue,score,priority,enriched,email_verified
+Elena D'Souza,Founder & CEO,NeuroAI Labs,SaaS,New York,18,$1.5M,85,high,1,1
+Ravi Mehta,COO,Datavine Systems,Analytics,San Francisco,42,$3.2M,78,medium,1,1
+Sarah Chen,CTO,TechFlow Solutions,Automation,Boston,25,$2.1M,82,high,1,0
+Michael Rodriguez,VP Sales,CloudScale Inc,Cloud Computing,Austin,35,$4.5M,75,medium,1,1
+Jennifer Park,Founder,DataViz Pro,Data Visualization,Seattle,12,$800K,88,high,0,0
+David Thompson,CEO,AI Solutions Hub,Artificial Intelligence,Chicago,28,$2.8M,80,high,1,1
+Lisa Wang,COO,SmartTech Systems,Machine Learning,Denver,22,$1.9M,76,medium,1,0
+Robert Johnson,VP Engineering,CodeCraft Labs,Software Development,Portland,31,$3.1M,79,medium,1,1
+Amanda Foster,Founder & CEO,GreenTech Innovations,Clean Technology,Los Angeles,19,$1.2M,83,high,0,0
+Carlos Mendez,CTO,SecureNet Solutions,Cybersecurity,Miami,26,$2.3M,77,medium,1,1 
